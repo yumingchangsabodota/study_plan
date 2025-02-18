@@ -110,7 +110,4 @@
    - Implement mining and proof-of-work.
    - Store a small chain in memory.
 
----
 
-### Additional Challenge:
-- Publish one of your projects as a Rust crate on [crates.io](https://crates.io/).
