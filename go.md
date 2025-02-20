@@ -11,7 +11,7 @@
 ### **Hands-on Project:**
 **Build a Simple To-Do List CLI App**
 - Implement a command-line to-do list where users can add, remove, and view tasks.
-- Store tasks in a json file for persistence.
+- Store tasks in a txt file for persistence.
 - Implement a simple menu-driven interface.
 
 ---
