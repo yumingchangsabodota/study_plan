@@ -7,7 +7,9 @@
 - Ownership, borrowing, and lifetimes
 - References and slices
 
+
 ### Hands-on Project:
+##### ✅ Done [https://github.com/yumingchangsabodota/rust_lang/tree/master/cli_calculator]
 **Build a Simple CLI Calculator**
 - Create a command-line calculator that takes two numbers and an operator (`+`, `-`, `*`, `/`) as input and returns the result.
 - Ensure proper handling of user input and ownership of values.

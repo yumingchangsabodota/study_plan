@@ -8,7 +8,9 @@
 - Variables, constants, and data types
 - Functions and control flow (`if`, `switch`, `for` loops)
 
+
 ### **Hands-on Project:**
+##### ✅ Done [https://github.com/yumingchangsabodota/go_lang/tree/master/to_do_list]
 **Build a Simple To-Do List CLI App**
 - Implement a command-line to-do list where users can add, remove, and view tasks.
 - Store tasks in a txt file for persistence.
