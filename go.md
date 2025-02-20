@@ -116,19 +116,12 @@
 - Cloud deployment (AWS Lambda, GCP, or DigitalOcean)
 
 ### **Final Hands-on Project:**
-**Build and Deploy a Blog CMS**
-- Develop a content management system for blogging.
-- Allow users to create, edit, and delete posts.
-- Deploy the application using Docker and Kubernetes.
+**Build and Deploy an RPC Server**
+- Develop a Remote Procedure Call (RPC) server.
+- Implement methods that clients can invoke remotely.
+- Ensure secure communication and authentication.
+- Deploy the server using Docker and Kubernetes.
 
 ---
 
-## **🚀 Additional Challenges**
-✅ **Contribute to an open-source Go project**  
-✅ **Write a Go CLI tool and publish it on GitHub**  
-✅ **Experiment with microservices using `gRPC`**  
 
----
-
-### **🔥 Final Thoughts**
-This study plan provides a structured approach to mastering Go, with hands-on projects designed to reinforce key concepts. 🚀 Let me know if you need any modifications!
