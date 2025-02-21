@@ -24,6 +24,7 @@
 - Rust error handling (`Result`, `Option`)
 
 ### Hands-on Project:
+##### ✅ Done [https://github.com/yumingchangsabodota/rust_lang/tree/master/guessing_game]
 **Build a Number Guessing Game**
 - Generate a random number (1-100) and prompt the user to guess it.
 - Provide hints like "Too High" or "Too Low" after each guess.
