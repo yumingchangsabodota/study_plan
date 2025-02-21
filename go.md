@@ -26,7 +26,7 @@
 - Error handling (`error` interface, custom errors)
 
 ### **Hands-on Project:**
-##### ✅ Done  [https://github.com/yumingchangsabodota/go_lang/tree/master/vehicle_inventory]
+##### ✅ Done [https://github.com/yumingchangsabodota/go_lang/tree/master/vehicle_inventory]
 **Build a Vehicle Inventory System**
 - Create a `struct` for vehicles with fields like `Make`, `Model`, and `Year`.
 - Implement methods to add, remove, and list vehicles.
