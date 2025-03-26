@@ -42,6 +42,7 @@
 - Worker pools and pipeline concurrency patterns
 
 ### **Hands-on Project:**
+##### ✅ Done [https://github.com/yumingchangsabodota/go_lang/tree/master/crypto_price_fetcher]
 **Build a Concurrent Stock Price Fetcher**
 - Fetch stock prices for multiple companies concurrently from a free API.
 - Use goroutines and channels to handle multiple requests.
